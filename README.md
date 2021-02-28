@@ -1,2 +1,2 @@
 # PHP-Text-Based-SocialMedia-Profanity-Filtration
-Text Analysis based Profanity Filtration On Social Media Platforms &amp; Other Features
+Profanity Filtration System based on Text Analysis built in PHP, Bootstrap 4 & MySQL
